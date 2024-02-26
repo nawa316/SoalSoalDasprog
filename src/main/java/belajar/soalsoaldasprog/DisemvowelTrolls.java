@@ -1,7 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+/* 
+ * DisemvowelTrolls
+ * https://www.codewars.com/kata/52fba66badcd10859f00097e
  */
+
 package belajar.soalsoaldasprog;
 
 /**
